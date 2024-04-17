@@ -1,0 +1,3 @@
+Comando para transpilar Ts em Js:
+tsc seu-arquivo.tsc
+
